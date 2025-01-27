@@ -1,5 +1,5 @@
 # AI_HW4_base
-## Домашнее задание 4 base
+## Домашнее задание 4 (base)
 
 Выложил ipynb - AI_HW4_woodenML_base.ipynb
 
